@@ -1,0 +1,2 @@
+AWSTemplateFormatVersion: '2017-08-13'
+Description: 'AWS VPN, EC2, RDS Postgres Instance'
